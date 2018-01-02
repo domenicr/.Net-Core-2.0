@@ -1,0 +1,12 @@
+c:\Users\domenicr\code\oauth\bin\MCD\Debug\netcoreapp2.0\app.db
+c:\Users\domenicr\code\oauth\bin\MCD\Debug\netcoreapp2.0\oauth.deps.json
+c:\Users\domenicr\code\oauth\bin\MCD\Debug\netcoreapp2.0\oauth.runtimeconfig.json
+c:\Users\domenicr\code\oauth\bin\MCD\Debug\netcoreapp2.0\oauth.runtimeconfig.dev.json
+c:\Users\domenicr\code\oauth\bin\MCD\Debug\netcoreapp2.0\oauth.dll
+c:\Users\domenicr\code\oauth\bin\MCD\Debug\netcoreapp2.0\oauth.pdb
+c:\Users\domenicr\code\oauth\obj\MCD\Debug\netcoreapp2.0\oauth.csproj.CoreCompileInputs.cache
+c:\Users\domenicr\code\oauth\obj\MCD\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\Users\domenicr\code\oauth\obj\MCD\Debug\netcoreapp2.0\oauth.AssemblyInfoInputs.cache
+c:\Users\domenicr\code\oauth\obj\MCD\Debug\netcoreapp2.0\oauth.AssemblyInfo.cs
+c:\Users\domenicr\code\oauth\obj\MCD\Debug\netcoreapp2.0\oauth.dll
+c:\Users\domenicr\code\oauth\obj\MCD\Debug\netcoreapp2.0\oauth.pdb
